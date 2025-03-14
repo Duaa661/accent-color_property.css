@@ -1,0 +1,15 @@
+input[type=checkbox]{
+    accent-color: red;
+}
+input[type=radio]{
+    accent-color: green;
+}
+input[type=range]{
+    accent-color: yellow;
+}
+#file{
+    color: pink;
+}
+body{
+    text-align: center;
+}
